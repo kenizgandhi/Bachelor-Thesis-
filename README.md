@@ -1,4 +1,4 @@
-# Bachelor-Thesis-
+# Bachelor-Thesis
 Measure weight of moving trucks using RL78 MCU
 
 Weigh-in-Motion (WIM) technologies allow trucks to be weighed in the traffic flow, without any disruption to operations.
